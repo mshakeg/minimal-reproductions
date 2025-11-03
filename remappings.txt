@@ -2,3 +2,5 @@
 @openzeppelin/contracts/=dependencies/@openzeppelin-contracts-5.1.0/
 forge-std-1.10.0/=dependencies/forge-std-1.10.0/
 forge-std/=dependencies/forge-std-1.10.0/src/
+minimal-reproductions-2-src-remapping/=dependencies/minimal-reproductions-2-src-remapping/
+dependencies/minimal-reproductions-2-src-remapping/:contracts=dependencies/minimal-reproductions-2-src-remapping/contracts/

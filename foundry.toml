@@ -59,3 +59,4 @@ anvil = "http://127.0.0.1:8545"
 [dependencies]
 forge-std = "1.10.0"
 "@openzeppelin-contracts" = "5.1.0"
+minimal-reproductions-2 = { version = "src-remapping", git = "https://github.com/mshakeg/minimal-reproductions-2.git", rev = "src-remapping" }
